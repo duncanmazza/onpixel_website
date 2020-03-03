@@ -1,4 +1,13 @@
-# [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
+A front-facing website for my project in my Iterate class.
+
+Status: work-in-progress
+Website link: <http://duncanmazza.github.io/onpixel_website>
+
+This website was derived from: [Start Bootstrap - Grayscale](https://startbootstrap.com/template-overviews/grayscale/)
+
+
+---
+Original README of bootstrap rep:
 
 [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
